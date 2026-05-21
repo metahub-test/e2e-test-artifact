@@ -2,6 +2,6 @@
   "name": "E2E Test Artifact",
   "slug": "publish",
   "kind": "skill",
-  "description": "automation",
+  "description": "This is an automated E2E test artifact used for verifying the publish flow inside the  portal using Playwright. It should have a long enough description to pass the minimum 80 character check.",
   "version": "1.0.0"
 }
