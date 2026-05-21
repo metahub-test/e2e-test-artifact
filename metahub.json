@@ -1,0 +1,7 @@
+{
+  "name": "E2E Test Artifact",
+  "slug": "publish",
+  "kind": "skill",
+  "description": "automation",
+  "version": "1.0.0"
+}
